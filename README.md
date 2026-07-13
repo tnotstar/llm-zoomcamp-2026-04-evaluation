@@ -305,7 +305,7 @@ Just finished Module 4 - Evaluation. Learned how to:
 ✅ Evaluate keyword, vector, and hybrid search on the same dataset
 ✅ Replace gut-feeling with numbers when comparing search methods
 
-Here's my homework solution: <LINK>
+Here's my homework solution: https://github.com/tnotstar/llm-zoomcamp-2026-04-evaluation
 
 Following along with this amazing free course by @Alexey Grigorev - who else is learning to build with LLMs?
 
@@ -322,7 +322,7 @@ You can sign up here: https://github.com/DataTalksClub/llm-zoomcamp/
 - Evaluating keyword vs vector vs hybrid search
 - Measuring instead of guessing
 
-My solution: <LINK>
+My solution: https://github.com/tnotstar/llm-zoomcamp-2026-04-evaluation
 
 Free course by @Al_Grigor & @DataTalksClub: https://github.com/DataTalksClub/llm-zoomcamp/
 ```
